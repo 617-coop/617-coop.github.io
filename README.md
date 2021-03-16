@@ -1,5 +1,5 @@
 Proposed Operating Agreement
-617.coop
+<br>
 
 ARTICLE 1  THE SOCIOCRATIC CIRCLE-ORGANIZATION METHOD 
 
