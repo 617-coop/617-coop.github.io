@@ -30,7 +30,7 @@ The organization of the LLC shall be a hierarchy of double-linked circles, in th
 
 The top circle shall be the highest circle of the LLC, the powers and responsibilities of which are set forth in the articles of organization and this operating agreement. The composition of the top circle is defined in Article 2.
 
-The top circle shall manage and direct the business and affairs of the LLC with full power to engage in any lawful act or activity under the General Limited Liability Company (LLC) Law of [name of jurisdiction] unless otherwise limited by the provisions of this operating agreement.
+The top circle shall manage and direct the business and affairs of the LLC with full power to engage in any lawful act or activity under the General Limited Liability Company (LLC) Law of Massachusets unless otherwise limited by the provisions of this operating agreement.
 
 1.2.2  General Circle
 
