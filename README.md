@@ -2,6 +2,7 @@ Proposed Operating Agreement
 617.coop
 
 ARTICLE 1  THE SOCIOCRATIC CIRCLE-ORGANIZATION METHOD 
+
 1.1  Organizational Model
 
 The LLC shall be structured and governed in accordance with the sociocratic Circle-Organization Method, the underlying principles of which are as follows:
