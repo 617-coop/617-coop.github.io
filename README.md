@@ -1,12 +1,14 @@
-Information and support for Boston-area cooperatives and their members. Deidcated to the seven cooperative principles:
+Information and support for Boston-area cooperatives and their members.
+
+Deidcated to the seven cooperative principles:
 
 01 Voluntary and Open Membership
 
-Cooperatives are voluntary organisations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
+Cooperatives are voluntary organizations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
 
 02 Democratic Member Control
 
-Cooperatives are democratic organisations controlled by their members, who actively participate in setting their policies and making decisions. Men and women serving as elected representatives are accountable to the membership. In primary cooperatives members have equal voting rights (one member, one vote) and cooperatives at other levels are also organised in a democratic manner.
+Cooperatives are democratic organizations controlled by their members, who actively participate in setting their policies and making decisions. Men and women serving as elected representatives are accountable to the membership. In primary cooperatives members have equal voting rights (one member, one vote) and cooperatives at other levels are also organized in a democratic manner.
 
 03 Member Economic Participation
 
@@ -14,7 +16,7 @@ Members contribute equitably to, and democratically control, the capital of thei
 
 04 Autonomy and Independence
 
-Cooperatives are autonomous, self-help organisations controlled by their members. If they enter into agreements with other organisations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
+Cooperatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
 
 05 Education, Training, and Information
 
