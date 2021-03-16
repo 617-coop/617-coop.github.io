@@ -5,6 +5,7 @@ Deidcated to the seven cooperative principles:
 
 Cooperatives are voluntary organisations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
 
+
 2. Democratic Member Control
 
 Cooperatives are democratic organisations controlled by their members, who actively participate in setting their policies and making decisions. Men and women serving as elected representatives are accountable to the membership. In primary cooperatives members have equal voting rights (one member, one vote) and cooperatives at other levels are also organised in a democratic manner.
@@ -16,6 +17,7 @@ Members contribute equitably to, and democratically control, the capital of thei
 4. Autonomy and Independence
 
 Cooperatives are autonomous, self-help organisations controlled by their members. If they enter into agreements with other organisations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
+
 
 5. Education, Training, and Information
 
