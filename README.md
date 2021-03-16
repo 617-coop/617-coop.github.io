@@ -2,31 +2,31 @@ Information and support for Boston-area cooperatives and their members.
 
 Deidcated to the seven cooperative principles:
 
-01 Voluntary and Open Membership
+1. Voluntary and Open Membership
 
 Cooperatives are voluntary organizations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
 
-02 Democratic Member Control
+2. Democratic Member Control
 
 Cooperatives are democratic organizations controlled by their members, who actively participate in setting their policies and making decisions. Men and women serving as elected representatives are accountable to the membership. In primary cooperatives members have equal voting rights (one member, one vote) and cooperatives at other levels are also organized in a democratic manner.
 
-03 Member Economic Participation
+3. Member Economic Participation
 
 Members contribute equitably to, and democratically control, the capital of their cooperative. At least part of that capital is usually the common property of the cooperative. Members usually receive limited compensation, if any, on capital subscribed as a condition of membership. Members allocate surpluses for any or all of the following purposes: developing their cooperative, possibly by setting up reserves, part of which at least would be indivisible; benefiting members in proportion to their transactions with the cooperative; and supporting other activities approved by the membership.
 
-04 Autonomy and Independence
+4. Autonomy and Independence
 
 Cooperatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
 
-05 Education, Training, and Information
+5. Education, Training, and Information
 
 Cooperatives provide education and training for their members, elected representatives, managers, and employees so they can contribute effectively to the development of their co-operatives. They inform the general public - particularly young people and opinion leaders - about the nature and benefits of co-operation.
 
-06 Cooperation among Cooperatives
+6. Cooperation among Cooperatives
 
 Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, national, regional and international structures.
 
-07 Concern for Community
+7. Concern for Community
 
 Cooperatives work for the sustainable development of their communities through policies approved by their members.
 
@@ -34,11 +34,13 @@ Cooperatives work for the sustainable development of their communities through p
 
 Operating Agreement [DRAFT]
 
-ARTICLE 1  THE SOCIOCRATIC CIRCLE-ORGANIZATION METHOD 
+ARTICLE 1
+
+THE SOCIOCRATIC CIRCLE-ORGANIZATION METHOD 
 
 1.1  Organizational Model
 
-The LLC shall be structured and governed in accordance with the sociocratic Circle-Organization Method, the underlying principles of which are as follows:
+The organization shall be structured and governed in accordance with the sociocratic Circle-Organization Method, the underlying principles of which are as follows:
 
 1.1.1  The Principle of Consent  
 
@@ -58,13 +60,13 @@ Persons are elected to functions and tasks exclusively by consent after open dis
 
 1.2  Structure 
 
-The organization of the LLC shall be a hierarchy of double-linked circles, in the following order, from top to bottom:
+The organization shall be a hierarchy of double-linked circles, in the following order, from top to bottom:
 
 1.2.1  Top Circle
 
-The top circle shall be the highest circle of the LLC, the powers and responsibilities of which are set forth in the articles of organization and this operating agreement. The composition of the top circle is defined in Article 2.
+The top circle shall be the highest circle of the organization, the powers and responsibilities of which are set forth in the articles of organization and this operating agreement. The composition of the top circle is defined in Article 2.
 
-The top circle shall manage and direct the business and affairs of the LLC with full power to engage in any lawful act or activity under the General Limited Liability Company (LLC) Law of Massachusets unless otherwise limited by the provisions of this operating agreement.
+The top circle shall manage and direct the business and affairs of the organization with full power to engage in any lawful act or activity under the General Laws of Massachusets unless otherwise limited by the provisions of this operating agreement.
 
 1.2.2  General Circle
 
@@ -114,30 +116,29 @@ The hierarchical pattern established in sections 1.2.2-1.2.5 shall be repeated f
 
 1.3 Investing and Working Partners
 
-Persons can become members of the LLC by investing money or by performing active labor or both. People or organizations that have made investments in the LLC shall be called hereafter “investing partners.” Those who perform labor shall be called hereafter “working partners.” Members of the general, department, section, and unit circles, and any circles below unit circles shall be working partners. A natural person can be both a working partner and an investing partner. A legal person, for example, another LLC, S corporation, or C corporation, can be an investing partner but not a working partner.
+Persons can become members of the organization by investing money or by performing active labor or both. People or organizations that have made investments in the LLC shall be called hereafter “investing partners.” Those who perform labor shall be called hereafter “working partners.” Members of the general, department, section, and unit circles, and any circles below unit circles shall be working partners. A natural person can be both a working partner and an investing partner. A legal person, for example, another LLC, S corporation, or C corporation, can be an investing partner but not a working partner.
 
 [The decision to have “working partners” or “employees” has tax and other implications that require legal advice. The intention is that everyone be able to participate in decision making on an equivalent basis. The term “partner” is not intended to infer greater authority nor “employee” less authority.]
 
-ARTICLE 2  TOP CIRCLE
-[Top Circle is the generic term for the highest governing level of the organization. It retains the circular process connotations and links to the primary sociocratic theory. Organizations may wish to adopt other terms to reflect their culture and environment.]
+ARTICLE 2 
+
+TOP CIRCLE
 
 2.1  Composition and Number
 
-The top circle shall consist of no less than six (6) nor more than twelve (12) members, as such number may be established from time to time by resolution of the top circle. This number shall include:
+The top circle shall consist of no less than three (3) nor more than nine (9) members, as such number may be established from time to time by resolution of the top circle. This number shall include:
 
 (a) external experts,
 
-(b) the CEO of the LLC, and
+(b) the CEO of the organization, and
 
-(c) one or more representatives of the general circle of the LLC.
+(c) one or more representatives of the general circle of the organization.
 
 2.2 External Experts
 
-[The importance of the title “board of directors” varies amongst legal jurisdictions and not all organizations are required to have a board. When a board is required, there may also be a requirement that it be composed entirely of persons from outside the organization, the external experts. If that is the case, the following clause can be used: “The top circle shall totally encompass all the duties of the board of directors. Every meeting of the top circle shall be considered a meeting also of the board of directors. The board of directors shall not meet separately from the top circle.” If a board is required by law, it may also be necessary to have a separate article defining the board and its responsibilities. If so, it can be modeled after the clauses used for the top circle.]
-
 The external experts, chosen from outside the organization, shall represent each of the following roles:
 
-(a) A person with expertise in financial matters relating to the business of the LLC.
+(a) A person with expertise in financial matters relating to the business of the organization.
 
 (b) A person with expertise in the area of human resource management, small business management, or other management specialties.
 
@@ -147,7 +148,7 @@ The external experts, chosen from outside the organization, shall represent each
 
 2.3  Separation of Roles
 
-The CEO, elected representatives from the general circle, and the person with expertise in financial matters must be separate persons. These persons and other members of the top circle who are not working partners of the LLC may fulfill one or more than one of the other above roles at the same time unless this could result in a statutory, operational, or legal incompatibility.
+The CEO, elected representatives from the general circle, and the person with expertise in financial matters must be separate persons. These persons and other members of the top circle who are not working partners of the organiztaion may fulfill one or more than one of the other above roles at the same time unless this could result in a statutory, operational, or legal incompatibility.
 
 2.4  Designation of Roles
 
@@ -163,15 +164,15 @@ Any member of the top circle may resign from the top circle at any time by submi
 
 Any newly created membership or any vacancy occurring in the top circle for any cause may be filled by a person selected by the consent of the remaining members of the top circle and each member so elected shall hold office until the expiration of the term of office of the member of the top circle  whom he or she has replaced or until his or her successor is elected and qualified.
 
-The CEO shall be elected or re-elected at two-year intervals at the first top circle meeting after the annual investors’ meeting. The representative(s) from the general circle shall be elected at intervals of up to two years on a schedule set by the general circle.
+The CEO shall be elected or re-elected at two-year intervals at the first top circle meeting after the annual meeting. The representative(s) from the general circle shall be elected at intervals of up to two years on a schedule set by the general circle.
 
 2.7  Regular Meetings
 
-Regular meetings of the top circle may be held at such places within or without the [name of jurisdiction] and at such times as the top circle may from time to time determine, and if so determined, notices thereof need not be given.
+Regular meetings of the top circle may be held at such places within or without the state of Massachusetts and at such times as the top circle may from time to time determine, and if so determined, notices thereof need not be given.
 
 2.8  Special Meetings
 
-Special meetings of the top circle may be held at any time or place within or without the [name of jurisdiction] whenever called by any member of the top circle. Notice of a special meeting of the top circle shall be given by the person or persons calling the meeting at least forty-eight (48) hours before the special meeting.
+Special meetings of the top circle may be held at any time or place within or without the state of Massachusetts whenever called by any member of the top circle. Notice of a special meeting of the top circle shall be given by the person or persons calling the meeting at least forty-eight (48) hours before the special meeting.
 
 2.9  Telephonic Meetings Permitted
 
@@ -185,7 +186,7 @@ Any member of the top circle absent from a meeting of the top circle shall be no
 
 If an absent top circle member objects to any action of the top circle in a timely fashion, the matter will be placed upon the agenda for the next meeting of the top circle, which meeting shall be held within seventy-two (72) hours of the receipt of such objection. Any member absent from such top circle meeting shall be deemed to have consented to the decision that the top circle reconsiders.
 
-2.II  Organization
+2.11  Organization
 
 Meetings of the top circle shall be presided over by the president of the top circle or another person chosen by consent of the top circle. In the absence of the president or other chosen person, a chairperson chosen at the meeting shall preside over the meeting. The secretary shall act as secretary of the meeting, but in his or her absence the person presiding may appoint any person to act as secretary of the meeting.
 
@@ -193,27 +194,30 @@ Meetings of the top circle shall be presided over by the president of the top ci
 
 Any decision required or permitted to be made at any meeting of the top circle may be made without a meeting if all members of the top circle consent thereto in writing, and the writing or writings are filed with the minutes of proceedings of the top circle.
 
-ARTICLE 3  EXECUTIVE OFFICERS OF THE TOP CIRCLE
+ARTICLE 3 
+
+EXECUTIVE OFFICERS OF THE TOP CIRCLE
+
 3.1  Executive Officers; Election; Qualifications; Term of Office; Resignation; Removal; Vacancies. 
 
 The top circle shall annually elect executive officers from amongst its members: a president, secretary, and treasurer and it may, if it so determines, choose a chairperson (or facilitator) of the top circle and a vice chairperson (or second facilitator) of the top circle from among its members. The top circle may also choose one or more vice presidents, one or more assistant vice presidents, one or more assistant secretaries, and one or more assistant treasurers. Each such officer shall hold office until the first meeting of the top circle after the annual meeting of investing partners next succeeding his or her election, and until his or her successor is elected and qualified or until his or her earlier resignation or removal.
 
-Any officer may resign his or her executive office at any time upon written notice to the secretary of the LLC. The secretary may resign at any time upon written notice to the president. The top circle may remove any officer from his or her executive office at any time without necessarily removing him or her from the top circle. Such removal shall be without prejudice to the contractual rights of such officer, if any, with the LLC.
+Any officer may resign his or her executive office at any time upon written notice to the secretary of the organization. The secretary may resign at any time upon written notice to the president. The top circle may remove any officer from his or her executive office at any time without necessarily removing him or her from the top circle. Such removal shall be without prejudice to the contractual rights of such officer, if any, with the organization.
 
-Any number of executive offices may be held by the same person unless prohibited by governing law. The top circle at any regular or special meeting may fill any executive officer vacancy occurring in any office of the LLC by death, resignation, removal, or otherwise for the unexpired portion of the term.
+Any number of executive offices may be held by the same person unless prohibited by governing law. The top circle at any regular or special meeting may fill any executive officer vacancy occurring in any office of the organization by death, resignation, removal, or otherwise for the unexpired portion of the term.
 
 3.2  Power to Require Security 
 
-The top circle may require any of its members, and any officer, agent, working member, or employee of the LLC to give security for the faithful performance of his or her duties.
+The top circle may require any of its members, and any officer, agent, working member, or employee of the organization to give security for the faithful performance of his or her duties.
 
 ARTICLE 4  CIRCLE MANAGEMENT
 4.1  General Provisions
 
-Management of all circles of the LLC with the exception that management of the top circle shall be in accordance with the following procedures only to the extent that such procedures are not inconsistent with Article 2 or Article 3 hereof, or any other provisions of this operating agreement, the articles of organization, or the laws of [name of jurisdiction].
+Management of all circles of the LLC with the exception that management of the top circle shall be in accordance with the following procedures only to the extent that such procedures are not inconsistent with Article 2 or Article 3 hereof, or any other provisions of this operating agreement, the articles of organization, or the laws of Massachusetts.
 
 4.1.1  Circle Regulations
 
-Each circle shall be a separate organ of the LLC and shall be empowered to draft its own regulations with respect to the tasks, authority, and responsibilities of the circle, which regulations shall not be in conflict with this operating agreement or any regulations that the top circle may adopt.
+Each circle shall be a separate organ of the organization and shall be empowered to draft its own regulations with respect to the tasks, authority, and responsibilities of the circle, which regulations shall not be in conflict with this operating agreement or any regulations that the top circle may adopt.
 
 4.1.2  Assisting Circles
 
@@ -255,7 +259,7 @@ The circle shall continue to make recommendations to the next higher circle conc
 
 4.3.1  Officers and Representatives
 
-Each circle shall elect a chairperson (or facilitator) of circle meetings and a secretary from amongst its members. Each circle shall also elect one or more representatives of the circle in the next higher circle, whether or not that person is a member of the circle, provided the representative is in some way connected to the LLC. These elections shall be conducted annually, or as deemed necessary by the circle, at a meeting convened for this purpose, according to the consent principle and after open discussion.
+Each circle shall elect a chairperson (or facilitator) of circle meetings and a secretary from amongst its members. Each circle shall also elect one or more representatives of the circle in the next higher circle, whether or not that person is a member of the circle, provided the representative is in some way connected to the organization. These elections shall be conducted annually, or as deemed necessary by the circle, at a meeting convened for this purpose, according to the consent principle and after open discussion.
 
 4.3.2  Multiple Functions
 
@@ -265,7 +269,7 @@ Persons may fulfill more than one function at the same time, unless this could r
 
 Each circle shall determine procedures for the appointment and dismissal of members of the circle, in accordance with the law, this operating agreement, and the articles of organization. A circle shall make decisions as to the appointment or dismissal of its members only after the person involved has been given an opportunity to present his or her arguments. However, the person involved may not participate in the making of this decision.
 
-In the absence of a written agreement to the contrary between an individual working partner and the LLC, these procedures shall not constitute a contract between any person and the LLC and all working partners of the LLC shall continue as working partners at the will of the LLC.
+In the absence of a written agreement to the contrary between an individual working partner and the LLC, these procedures shall not constitute a contract between any person and the organization and all working partners of the organization shall continue as working partners at the will of the organization.
 
 4.3.4  Objections to Appointments or Dismissals
 
@@ -306,6 +310,7 @@ Any decision made during a circle meeting shall be recorded in circle minutes or
 Amending or repealing a delegated decision is possible provided the consent of the circle involved has been obtained.
 
 ARTICLE 5 COMPENSATION AND PROFIT SHARING
+
 5.1  Fixed Compensation
 
 Both investing partners and working partners engaged in active operations shall receive fixed compensation to be reimbursed only from earnings from operations. The fixed part of the investing partners’ reimbursement will be calculated at the end of fiscal year at the then prevailing prime lending rate. Working partners will be reimbursed throughout the business year at a fixed rate analogous to wages or salaries.
@@ -318,75 +323,16 @@ Both investing partners and working partners will receive variable reimbursement
 
 5.3.1  At least annually, the top circle shall determine the amount targeted for company reserves and the targeted profit percentage.
 
-5.3.2  At least at the end of each fiscal year, the top circle or person(s) delegated by the top circle will normally deduct the targeted reserve from the profits, calculate the amount of fixed payments due to investors per Section 7.1, and subtract that amount and the amount of the targeted reserve from the profits available for variable payments to the parties. The variable payments, however, are so important to the measurement process, a key component of the LLC management, the top circle can choose to make variable payments before fully paying investors’ fixed payments.
+5.3.2  At least at the end of each fiscal year, the top circle or person(s) delegated by the top circle will normally deduct the targeted reserve from the profits, calculate the amount of fixed payments due to investors per Section 7.1, and subtract that amount and the amount of the targeted reserve from the profits available for variable payments to the parties. The variable payments, however, are so important to the measurement process, a key component of the organiztion management, the top circle can choose to make variable payments before fully paying investors’ fixed payments.
 
 5.3.3  The top circle or person(s) delegated by the top circle will calculate an STM payment for the investing and working partners each month and an LTM payment once or twice a year.
 
 5.3.4  The top circle shall decide whether to have the company pay taxes on retained earnings at the corporate tax rate or to pass all earnings through to the partners.
 
-OTHER ARTICLES 
-[Additional articles may be necessary to address such issues as indemnification, conflict of interest, fiscal year, corporate seal, and so forth. Care must be taken to ensure that these clauses do not contradict  or undermine the provisions of Articles 1 through 6.]
+ARTICLE X
 
-ARTICLE X MISCELLANEOUS
+MISCELLANEOUS
+
 Amendment of This Operating Agreement
 
 This operating agreement may be altered or repealed and new agreements made by the top circle applying the principle of consent in accordance with the provisions of these agreements, with a minimum of thirty (30) days notice to all members of the LLC including investing partners, working partners, and board of directors members of intent to amend this operating agreement. The purpose of such notice shall be to allow all levels of the circle structure, including the investing partners, time to call special meetings, if necessary, to deliberate, and to select representatives to attend the deliberations of the next higher circle.
-
-ADDENDUM
-CONDUCT OF MEETINGS OF INVESTING PARTNERS
-
-Article 1  Meetings of Investing Partners
-
-Meetings of investing partners shall be conducted in accordance with the sociocratic (dynamic self-governance) method. By consent, the investing partners may choose methods and structures of decision-making other than consent for a meeting of investing partners.
-
-Article 2  Notice of Meetings 
-
-Whenever the investing partners are required or permitted to take any action at a meeting, a written notice of the meeting shall be given to investing partners which shall state the place, date, and hour of the meeting, and, in the case of a special meeting, the purpose or purposes for which the meeting is called. Unless otherwise provided by law, the articles of organization, or these operating agreements, the written notice of any meeting shall be given not less than ten (10) nor more than sixty (60) days before the date of the meeting to the investing partners. If mailed, such notice shall be deemed to be given when deposited in the email or mail, postage prepaid, directed to the investing partner at its address as it appears on the records of the LLC.
-
-2.1  Annual Meeting of Investing Partners
-
-The investing partners shall meet annually for the purpose of electing a representative(s) to the top circle and determining the date and time of the next meeting. Only persons who have made monetary investment in the LLC plus the CEO plus the representative(s) from the general circle to the top circle shall participate in said meeting.
-
-2.2  Special Meetings of Investing Partners
-
-Special meetings of the investing partners may be called with at least 15 days notice by one or more of the investing partners, CEO, or elected representative to the top circle. Only the investing partners, the CEO, and the representative(s) to the top circle from the general circle shall be entitled to participate in such meetings. Special meetings will be for the sole purpose of considering the removal and/or replacement of the investing partners’ representative(s) to the top circle.
-
-2.3  List of Investing Partners Entitled to Participate in Annual and Special Meetings of Investing Partners
-
-The secretary of the top circle, upon notice of an annual or special meeting of the investing partners, shall prepare and make, at least ten (10) days before such meeting, a complete list of the investing partners entitled to participate in the meeting, arranged in alphabetical order, and showing the address of each investing partner and the percentage of equity registered in the name of each investing partner. Such list shall be open to the examination of any investing partner in a designated electronic location.
-
-Article 3  Quorum 
-
-Except as otherwise provided by law, the articles of organization, or this operating agreement, at each meeting of the investing partners the presence in person or by electronic means of a person or persons representing at least one-half of the total investment in the LLC plus the CEO or a  Representative of the general circle shall constitute a quorum.  The investing partners may, at their sole discretion, form a legal entity.
-
-Article 4  Organization of Investing Partners Meeting
-
-Meetings of the investing partners shall be presided over by the CEO, by a representative of the general circle, or by another person elected at the meeting by consent. The meeting attendees shall elect a secretary or direct the CEO to appoint a person to act as secretary of the meeting.
-
-Article 5   Participation in Meetings 
-
-Each investing partner in attendance shall be entitled to participate in the consent decision-making process in the investing partners meeting. Members who are unable to be present can delegate their right to participate in decision making to another member of the investing partner’s circle. The right to participate, however, does not constitute a proxy to consent or veto. The delegated right to participate is the right to present arguments on behalf of another circle member.
-
-Article 6  Fixing Date for Determination  of Investing Partner of Record
-
-6.1  Fixed Record Date
-
-In order that the LLC may determine the investing partners entitled to notice of or to participation in any meeting of investing partners or any adjournment thereof; or entitled to receive payment of any funds or other distribution or allotment of any rights; or entitled to exercise any rights in respect of any change, conversion, or exchange of partnership equity; or for the purpose of any other lawful action, the top circle may fix a record date. The record date shall not precede the date upon which the resolution fixing the record date is adopted by the top circle. The record date
-
-(a) shall not be more than sixty (60) nor less than ten (10) days before the date of the next scheduled meeting of the investing partners;
-
-(b) nor in the case of any other action, it shall not be more than sixty (60) days prior to such other action.
-
-6.2  No Fixed Record Date
-
-If no record date is fixed,
-
-(a) the record date for determining investing partners entitled to notice of or to participate at a meeting of investing partners shall be at the close of business on the day preceding the day on which the meeting is held;
-
-(b) the record date for determining investing partners for any other purpose shall be at the close of business on the day preceding the day on which the top circle adopts the resolution relating thereto.
-
-A determination of investing partners of record entitled to notice of or to participate at a meeting of investing partners shall apply to any adjournment of the meeting; provided, however, that the top circle may fix a new record date for the adjourned meeting.
-
-Article 7  List of Investing Partners Entitled to Participate 
-
-The person or persons responsible for calling an annual or special meeting of the investing partners must give the secretary of the top circle notice of the meeting at least fifteen (15) days in advance of the date of the meeting.
